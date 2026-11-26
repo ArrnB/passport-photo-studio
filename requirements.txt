@@ -1,0 +1,6 @@
+pillow>=10
+# Optional extras
+opencv-python   # automatic face detection and GrabCut background removal
+numpy
+pillow-heif     # iPhone .heic photos
+# rembg[cpu]    # best background removal (large install, runs in a subprocess)
